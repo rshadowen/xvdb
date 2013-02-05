@@ -43,40 +43,40 @@ Dev Plan
 --------
 
 - [ ] GUI
-- [ ]   The big window
-- [ ]   The little window
-- [ ]     It can be moved and resized.  Nice!
-- [ ]     It can be minimized.  Whew!
-- [ ]   It has text
-- [ ]   Clicky clicky gives me a line+col location
-- [ ]   Pop up menu
-- [ ]   A command line
-- [ ]   Mouse warping
-- [ ]   Dump to file
+    - [ ]   The big window
+    - [ ]   The little window
+	- [ ]     It can be moved and resized.  Nice!
+	- [ ]     It can be minimized.  Whew!
+    - [ ]   It has text
+    - [ ]   Clicky clicky gives me a line+col location
+    - [ ]   Pop up menu
+    - [ ]   A command line
+    - [ ]   Mouse warping
+    - [ ]   Dump to file
 
 Phase 1: talk to gdb via pipe
 
 - [ ] Echo gdb output to term for debug
 - [ ] Connect command line
 - [ ] Source window
-- [ ]   Click for breakpoint
+    - [ ]   Click for breakpoint
 - [ ] Stack window
 - [ ] Command window
-- [ ]   Next/Step
-- [ ]   Restart
-- [ ]   Continue
-- [ ]   Return
+    - [ ]   Next/Step
+    - [ ]   Restart
+    - [ ]   Continue
+    - [ ]   Return
 - [ ] Locals window
-- [ ]   Display locals
-- [ ]   Identify types
-- [ ]   Format registry
-- [ ]   Formats
-- [ ]     Numeric
-- [ ]     String
-- [ ]     Struct
-- [ ]     Array
+    - [ ]   Display locals
+    - [ ]   Identify types
+    - [ ]   Format registry
+    - [ ]   Formats
+	- [ ]     Numeric
+	- [ ]     String
+	- [ ]     Struct
+	- [ ]     Array
 - [ ] Globals window
 - [ ] Memory window
-- [ ]   Display in hex + ascii format (other encodings? wide chars?)
-- [ ]   Edit memory
+    - [ ]   Display in hex + ascii format (other encodings? wide chars?)
+    - [ ]   Edit memory
 
